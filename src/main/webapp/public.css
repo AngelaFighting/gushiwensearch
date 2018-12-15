@@ -1,0 +1,43 @@
+@CHARSET "UTF-8";
+
+body{
+	background-image: url(img/bg.gif);
+}
+hr{
+	clear:both;
+}
+h5{
+	color:#999;
+}
+h4{
+	font-weight: bold;
+}
+#index{
+	margin:100px auto;
+	width:450px;
+	padding-bottom: 100px;
+}
+#logo{
+	color: purple;
+	font-weight: bold;
+	font-size: 48px;				
+}
+#query,#result,#detail{
+	margin:10px auto;
+	width:750px;	
+}
+.tab-pane{
+	padding: 10px;
+}
+.submit_btn{
+	background-color: blueviolet;
+}
+.pagination{
+	margin:0 auto;
+}
+#footer{
+	margin:10px auto;
+	text-align: center;
+	width:450px;
+	color:#999;
+}
